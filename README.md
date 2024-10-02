@@ -1,4 +1,4 @@
-# estacio-banco-de-dados
+# estacio-banco-de-dados (ADS - 2024/02)
 
 Repositório criado para entrega de trabalho de extensão da Estácio sobre a matéria de banco de dados.
 
